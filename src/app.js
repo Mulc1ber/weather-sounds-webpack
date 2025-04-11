@@ -1,4 +1,4 @@
-import "./style.css";
+import "./style.scss";
 
 function NatureSoundsApp() {
   let audio = null;
